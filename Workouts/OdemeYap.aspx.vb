@@ -2,10 +2,13 @@
 Partial Class OdemeYap
     Inherits System.Web.UI.Page
 
-    Protected Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
-
-    End Sub
     Protected Sub ImageButton3_Click(sender As Object, e As ImageClickEventArgs) Handles ImageButton3.Click
 
+        Response.Write("Ödeme Başarılı")
+
+
+    End Sub
+    Protected Sub ImageButton1_Click(sender As Object, e As ImageClickEventArgs) Handles ImageButton1.Click
+        Response.Redirect("Workouts.aspx")
     End Sub
 End Class

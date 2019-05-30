@@ -21,4 +21,7 @@ Partial Class BiletFiyatSecaspx
     Protected Sub ImageButton5_Click(sender As Object, e As ImageClickEventArgs) Handles ImageButton5.Click
         Response.Redirect("Koltuksec.aspx")
     End Sub
+    Protected Sub ImageButton6_Click(sender As Object, e As ImageClickEventArgs) Handles ImageButton6.Click
+        Response.Redirect("Workouts.aspx")
+    End Sub
 End Class

@@ -9,12 +9,12 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:ImageButton ID="ImageButton1" runat="server" Height="361px" ImageUrl="~/bltler.jpg" Width="906px" />
+            <asp:ImageButton ID="ImageButton1" runat="server" Height="361px" ImageUrl="~/resimler/bltler.jpg" Width="906px" />
         </div>
-        <asp:ImageButton ID="ImageButton2" runat="server" Height="129px" ImageUrl="~/kltklar.jpg" Width="859px" />
+        <asp:ImageButton ID="ImageButton2" runat="server" Height="129px" ImageUrl="~/resimler/kltklar.jpg" Width="859px" />
         <br />
         <br />
-        <asp:Image ID="Image1" runat="server" Height="90px" ImageUrl="~/odeme.jpg" style="margin-top: 0px" Width="831px" />
+        <asp:Image ID="Image1" runat="server" Height="90px" ImageUrl="~/resimler/odeme.jpg" style="margin-top: 0px" Width="831px" />
         <br />
         <br />
         <br />
@@ -46,11 +46,12 @@
         <asp:CheckBox ID="CheckBox2" runat="server" Text="SMS ile bilgilendirmek istiyorum." Width="870px" />
         <br />
         <br />
-        <asp:Image ID="Image2" runat="server" Height="169px" ImageUrl="~/kartlar.jpg" Width="951px" />
+        <asp:Image ID="Image2" runat="server" Height="169px" ImageUrl="~/resimler/kartlar.jpg" Width="951px" />
         <br />
         <br />
-        <asp:ImageButton ID="ImageButton3" runat="server" Height="149px" ImageUrl="~/odmee.jpg" Width="963px" />
+        <asp:ImageButton ID="ImageButton3" runat="server" Height="149px" ImageUrl="~/resimler/odmee.jpg" Width="963px" />
         <br />
     </form>
 </body>
 </html>
+

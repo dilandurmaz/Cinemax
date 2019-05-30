@@ -40,7 +40,7 @@ public partial class Workouts : System.Web.UI.Page
 
     protected void ImageButton4_Click(object sender, ImageClickEventArgs e)
     {
-        Response.Redirect("BiletAl.aspx");
+        Response.Redirect("http://localhost:63466/resimler/Biletal.aspx");
     }
 
     protected void ImageButton3_Click(object sender, ImageClickEventArgs e)
