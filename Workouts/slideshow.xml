@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/film1.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film2.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film3.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film4.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film5.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film6.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film7.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/film8.jpg</ImageUrl>
+  </Ad>
+
+
+</Advertisements>
