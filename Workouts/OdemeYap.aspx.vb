@@ -4,7 +4,7 @@ Partial Class OdemeYap
 
     Protected Sub ImageButton3_Click(sender As Object, e As ImageClickEventArgs) Handles ImageButton3.Click
 
-        Response.Write("Ödeme Başarılı")
+        Response.Write("Ödeme Başarılıyla Tamamlandı.")
 
 
     End Sub
